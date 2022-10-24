@@ -18,6 +18,9 @@ AFTER</br>
 ![image](https://user-images.githubusercontent.com/3465963/197464602-507f7b6f-6d66-464f-9372-8601a9c6bd88.png)
 
 ## Extra tibits
-If you like this project, feel free to contribute to it!
+If you like this project, feel free to contribute to it!<br>
 If you really like what I do, feel free to donate
 https://www.paypal.com/paypalme/jhwblender
+<br>
+If you really really like what I do, help support me on Patreon!
+https://www.patreon.com/event_horizon_studios
