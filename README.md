@@ -22,5 +22,5 @@ If you like this project, feel free to contribute to it!<br>
 If you really like what I do, feel free to donate
 https://www.paypal.com/paypalme/jhwblender
 <br>
-If you really really like what I do, help support me on Patreon!
+If you really really like what I do, help support my work on Patreon!
 https://www.patreon.com/event_horizon_studios
