@@ -1,5 +1,5 @@
 # Rename-by-Capture-Date
-A simple Windows utility where all media files in a folder will be renamed to start with their capture date
+A simple Windows utility where all media files in a folder will be renamed to start with their capture date and time
 
 ## Instructions
 Download and install the .NET Framework Runtime
